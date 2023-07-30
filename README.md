@@ -17,12 +17,9 @@ frontend-with-reactjs
    https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 
 4. Install extensions in vscode
-   Thunder Client  - Same as Postman
+   
+   ```Thunder Client  - Same as Postman
    ES7 React/Redux/GraphQL/React-Native snippets  -> Simple extensions for React
    Auto Rename Tag - Auto rename paired HTML/XML tag
    Live Server - Launch a development local Server with live reload feature for static & dynamic pages
    Prettier Code formatter -  Code formatter using prettier
-
-
-
-   
